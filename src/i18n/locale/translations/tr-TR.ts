@@ -85,8 +85,8 @@ export default {
   transaction_form_success_description: 'İşlem oluşturuldu. İşlem listesine gitmek için buraya dokunun.',
   transaction_form_error_title: 'Hata',
   home_header_time_range_year: 'Yıl',
-  home_header_time_range_q: 'Ç', // Quarter abbreviation
-  home_header_time_range_s: 'Y', // Semiannual abbreviation
+  home_header_time_range_q: 'Ç', // Put an abbreviation that best represents a quarter
+  home_header_time_range_s: 'Y', // Put an abbreviation that best represents a semiannual
 
   // from 0.6.0
   balance: 'Bakiye',
